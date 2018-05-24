@@ -1,7 +1,7 @@
 JavaScript IoT Workshop
 ===
 
-Internet of Things (IoT) devices are lots of fun! But wouldn't it be better if we could write _JavaScript_ to run on our devices. Instead of hacking through C and Arduino, we could use the language we know and love to power are little mini-robots.
+Internet of Things (IoT) devices are lots of fun! But wouldn't it be better if we could write _JavaScript_ to run on our devices. Instead of hacking through C and Arduino, we could use the language we know and love to power our little mini-robots.
 
 ## Workshop
 
