@@ -2,7 +2,7 @@ const config = {
   ssid: 'alchemy',
   wifiPw: 'z0sim0s!',
   url: 'http://192.168.1.72:3000/button/',
-  myName: 'David'
+  myName: 'David'  // Change this to your name!
 };
 const BTN = NodeMCU.D3;
 const http = require('http');
