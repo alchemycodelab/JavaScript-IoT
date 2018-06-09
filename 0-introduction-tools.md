@@ -30,6 +30,7 @@ This is a microcontroller that is quite versatile.  It contains a wifi radio and
 ## flasher.js
 
 Go to the [Flasher.js download site](https://github.com/thingsSDK/flasher.js/releases), download and install the app for your operating system.
+Serial driver is [here.](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers)
 
 If you're on MacOSX or Linux, you will need to run this command as well:
 ```
